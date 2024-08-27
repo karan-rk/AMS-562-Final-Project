@@ -1,0 +1,12 @@
+populationSize=500
+interactionRate=0.4
+infectionRate=0.1
+initialInfectionRate=0.03
+recoveryRate=0.09
+vaccinationRate=0.1
+mutationRate=0.015
+deathThreshold=30
+totalSteps=500
+
+
+

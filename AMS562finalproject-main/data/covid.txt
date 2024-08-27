@@ -1,0 +1,9 @@
+populationSize=20000
+infectionRate=0.15
+initialInfectionRate=0.0017
+recoveryRate=0.0714
+vaccinationRate=0.008
+dieRate=0.00015
+
+
+
